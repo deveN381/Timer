@@ -4,5 +4,6 @@ public class Program
 public void Main()
 {
 Console.WriteLine("GIT");
+  Console.WriteLine("GIT");
 }
 }
